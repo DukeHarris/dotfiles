@@ -1,6 +1,15 @@
 {
 	"installed_packages":
 	[
-		"SideBarEnhancements"
+		"AutoFileName",
+		"BracketHighlighter",
+		"Dart",
+		"GitGutter",
+		"Gutter Color",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JSHint Gutter",
+		"SideBarEnhancements",
+		"Theme - Soda"
 	]
 }
