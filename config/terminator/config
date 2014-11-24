@@ -9,20 +9,13 @@
 [profiles]
   [[default]]
     background_image = None
-    copy_on_selection = True
+    exit_action = restart
     cursor_shape = ibeam
-    scrollback_infinite = True
     show_titlebar = False
+    copy_on_selection = True
+    scrollback_infinite = True
 [layouts]
   [[default]]
-    [[[child1]]]
-      type = Terminal
-      parent = window0
-      profile = default
-    [[[window0]]]
-      type = Window
-      parent = ""
-  [[Multi]]
     [[[child0]]]
       position = 0:24
       type = Window

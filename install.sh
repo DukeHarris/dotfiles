@@ -8,7 +8,7 @@
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files=(config/devilspie2 bashrc config/sublime-text-3/Packages "config/sublime-text-3/Installed Packages")    
+files=(config/devilspie2 bashrc config/terminator config/sublime-text-3/Packages "config/sublime-text-3/Installed Packages")    
 # list of files/folders to symlink in homedir
 
 ##########
